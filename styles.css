@@ -1,17 +1,22 @@
 body {
     background-image: url("https://windows10spotlight.com/wp-content/uploads/2017/10/b021a6a8b5b4186e2773d984cd72d717.jpg");
+    opacity: 90%;
 }
 .outdoor {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 300;
     padding-top:10px;
+    padding-left: 30px;
 }
 #adventures {
     font-style: italic;
     box-shadow: rgb(68, 68, 14);
     padding-top:0px;
+    padding-left: 30px;
+    box-decoration-break: inherit;
 }
 #navbar {
+    padding-right: 20px;
    background-size: inherit;
    flex-direction: row;
    float: inline-end;
@@ -58,24 +63,30 @@ nav {
     padding-top: 0px;
 }
 #reach {
+    margin-bottom: 0px;
     color:white;
     padding: 10px;
     font-weight: 500;
     float: left;
     padding-top: 100px;
+    padding-bottom: 0px;
 }
 .footer {
+    font-family: serif;
+    background-color: rgb(14, 14, 36);
     display:inline;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .location {
+    margin-bottom: 0px;
     color:white;
     float: center;
     padding-left: 700px;
     padding-top: 100px;
+    padding-bottom: 0px;
 }
 .booking {
     float: right;
-    padding-top: -100px;
+    padding-top: 0px;
 }
 
