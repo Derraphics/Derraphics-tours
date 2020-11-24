@@ -1,0 +1,92 @@
+body {
+    background-image: url("https://windows10spotlight.com/wp-content/uploads/2017/10/b021a6a8b5b4186e2773d984cd72d717.jpg");
+    opacity: 90%;
+}
+.outdoor {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    padding-top:10px;
+    padding-left: 30px;
+}
+#adventures {
+    font-style: italic;
+    box-shadow: rgb(68, 68, 14);
+    padding-top:0px;
+    padding-left: 30px;
+    box-decoration-break: inherit;
+}
+#navbar {
+    padding-right: 20px;
+   background-size: inherit;
+   flex-direction: row;
+   float: inline-end;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: center;
+    font-size: 60px;
+    font-style: oblique;
+    padding-left: 700px;
+    padding-bottom: 3px;
+    padding-top: 100px;
+    text-shadow: rgb(235, 209, 151);
+    color: rgb(234, 235, 151);
+}
+.moving {
+    color: rgb(233, 224, 175);
+    float: center;
+    font-size: 40px;
+    font-style: oblique;
+    padding-left: 750px;
+    padding-bottom: 0px;
+    padding-top: 0px;    
+}
+#heart {
+    color: rgb(238, 233, 185);
+    float: center;
+    font-size: 20px;
+    font-style: oblique;
+    padding-left: 800px;
+    padding-bottom: 3px;
+    padding-top: 0px; 
+}
+nav {
+    width:100%;
+    float:left;
+}
+.menu li {
+    display:inline;
+}
+.menu {
+    padding:20px;
+    float:right;
+    padding-top: 0px;
+}
+#reach {
+    margin-bottom: 0px;
+    color:white;
+    padding: 10px;
+    font-weight: 500;
+    float: left;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+.footer {
+    font-family: serif;
+    background-color: rgb(14, 14, 36);
+    display:inline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.location {
+    margin-bottom: 0px;
+    color:white;
+    float: center;
+    padding-left: 700px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+.booking {
+    float: right;
+    padding-top: 0px;
+}
+
