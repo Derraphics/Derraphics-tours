@@ -58,6 +58,7 @@ nav {
     padding-top: 0px;
 }
 #reach {
+    color:white;
     padding: 10px;
     font-weight: 500;
     float: left;
@@ -68,6 +69,7 @@ nav {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .location {
+    color:white;
     float: center;
     padding-left: 700px;
     padding-top: 100px;
